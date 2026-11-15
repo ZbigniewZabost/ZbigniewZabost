@@ -1,7 +1,4 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
-  <img src="assets/banner-light.svg" alt="A rotating hexagon with a heartbeat line, next to a strip of hexagon badges lighting up one by one" width="100%">
-</picture>
+<img src="assets/banner.svg" alt="Site Reliability · Platform · Systems: AI Agents for Ops, Kubernetes, AWS, Azure, GCP, Terraform, CI/CD, Observability, Incident Response. Berlin." width="100%">
 
 # Zbigniew Zabost
 
